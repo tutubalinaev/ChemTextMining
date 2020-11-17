@@ -35,18 +35,18 @@
 
 #### Note: To use different word embedding vectors need to specify it in crf/features.py in load_w2v_model function.
 #### Citing:
-#####   Miftahutdinov, Z., Tutubalina, E., Tropsha, A.: Identifying Disease-related Expressions in Reviews using Conditional Random Fields.
+#####   Sh, Miftahutdinov Z., Tutubalina EV, and Tropsha AE. "Identifying disease-related expressions in reviews using conditional random fields." Computational Linguistics and Intellectual Technologies (2017): 155-166.
   http://www.dialog-21.ru/media/3932/miftahutdinovzshetal.pdf
 ##### BibTex:
     @inproceedings{miftahutdinov2017,
                   title={Identifying Disease-related Expressions in Reviews using Conditional Random Fields},
                   author={Miftahutdinov, Zulfat and Tutubalina, Elena and Tropsha, Alexander},
-                  booktitle={Proceedings of International Conference Dialog},
+                  booktitle={Computational Linguistics and Intellectual Technologies: Proceedings of International Conference Dialogue},
                   volume={1},
-                  pages={155-167},
+                  pages={155-166},
                   year={2017}
     }
-##### Tutubalina, EV and Miftahutdinov, Z Sh and Nugmanov, RI and Madzhidov, TI and Nikolenko, SI and Alimova, IS and Tropsha, AE Using semantic analysis of texts for the identification of drugs with similar therapeutic effects.
+##### Tutubalina, E. V., Miftahutdinov, Z. S., Nugmanov, R. I., Madzhidov, T. I., Nikolenko, S. I., Alimova, I. S., & Tropsha, A. E. (2017). Using semantic analysis of texts for the identification of drugs with similar therapeutic effects. Russian Chemical Bulletin, 66(11), 2180-2189.
    [link to paper](https://www.researchgate.net/profile/Elena_Tutubalina/publication/323751823_Using_semantic_analysis_of_texts_for_the_identification_of_drugs_with_similar_therapeutic_effects/links/5bf7cfc3299bf1a0202cbc1f/Using-semantic-analysis-of-texts-for-the-identification-of-drugs-with-similar-therapeutic-effects.pdf)
 ##### BibTex
     @article{tutubalina2017using,
@@ -57,5 +57,4 @@
             number={11},
             pages={2180--2189},
             year={2017},
-            publisher={Springer}
-}
+            publisher={Springer}}
